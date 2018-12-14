@@ -1,0 +1,236 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MuiAppBar-colorPrimary-18{
+  color: #fff !important;
+  background-color: #d67612 !important;
+}
+
+.MuiFormLabel-root-178 .MuiFormLabel-focused-179, .MuiFormLabel-root-178,
+.MuiInputBase-input-114,
+.MuiOutlined-Input-root185 .MuiOutlinedInput-focused-186 .MuiOutlinedInput-notchedOutline-192,
+.MuiOutlinedInput-root-185 .MuiOutlinedInput-notchedOutline-192,
+[class*="MuiOutlinedInput-"],[class*="MuiFormLabel-"],[class*="MuiInputBase-"],[class*="MuiOutlined-"]
+{
+  color: #d67612 !important;
+  border-color: #d67612 !important;
+}
+[class*="MuiButton-"],[class*="MuiButtonBase-"],.MuiButton-containedPrimary-213{
+  background-color: #d67612 !important;
+}
+
+
+.mt40{
+	margin-top: 40px !important;
+}
+.m20{
+	margin:20px !important;
+}
+.ml30{
+	margin-left:30px !important;
+}
+.play-history-tile{
+	    display: inline-flex;
+    margin: 10px;
+    border: 1px solid #d67612 !important;
+    padding: 10px;
+    border-radius: 12px;
+    width: 50%;
+    height: 100px;
+}
+.bold-font{
+	font-weight: 600;
+}
+.cust-details{
+	margin-left: 50px;
+    font-size: medium;
+    text-align: left;
+}
+.m10{
+	margin:10px;
+}
+
+.mt30{
+	margin-top:30px !important;
+}
+
+.mt10{
+	margin-top:10px !important;
+}
+
+.ml100{
+	margin-left:100px !important;
+}
+
+.display-inline-flex{
+	display:inline-flex;
+}
+
+.movie-details-view{
+	display: inline-flex;
+    margin-left: 100px;
+    padding: 30px;
+    border: 1px solid #d67612;
+    width: 80%;
+}
+.bar{
+	    height: 30px;
+    background-color: #d67612;
+    border: 1px solid #d67612;
+    color: white;
+    margin-left: 100px;
+    width: 85%;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+.w75{
+	width:75% !important;
+}
+.overflow-wrap{
+	overflow-wrap: break-word !important;
+}
+.dv-star-rating{
+	font-size : 30px !important;
+}
+.dv-star-rating-empty-star{
+	color : rgb(228, 185, 185) !important;
+}
+.float-right{
+	float: right !important;
+}
+.modal-style{
+  margin-top: 400px !important;
+  margin-left: 870px !important;
+    text-align: center !important;
+    background-color: white !important;
+    padding: 100px 50px !important;
+    transform: translate(-42%, -59%) !important;
+}
+.title-modal{
+  font-size: 35px;
+    color: red;
+}
+.main-text-font{
+  font-size:35px;
+}
+input, select{
+  width: 500px;
+    border: 1px solid #d67612 !important;
+    border-radius: 3px;
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #d67612 !important;
+}
+.add-form{
+  padding-left: 0px;
+    width: 28%;
+    margin-left: 670px;
+}
+.add-form label{
+  color: #d67612 !important;
+    float:left;
+}
+select{
+  margin-left: -33px;
+}
+.inline-block{
+    display: inline-flex;
+    float: left;
+}
+.MuiDivider-root-145, .MuiDivider-middle-149{
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+label{
+    color : #d67612 !important;
+}
+input[type="checkbox" i]{
+    transform: scale(1.5);
+    width:40px !important;
+}
+.label-checkbox{
+    margin-top: 7px !important;
+    font-size: 16px !important;
+}
+.fl{
+    float : left !important;
+}
+.css15k3avv{
+    color:black !important;
+}
+.css-12jo7m5{
+    color:white !important;
+}
+.css-xwjg1b{
+    background-color: #d67612 !important;
+    color:white !important;
+}
+.css-10nd86i{
+    width:400px !important;
+}
+.css-wqgs6e {
+    background-color: #eaaf8c !important;
+    color: inherit;
+    cursor: default;
+    display: block;
+    font-size: inherit;
+    padding: 8px 12px;
+    width: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    box-sizing: border-box;
+}
+.css-1g6gooi input{
+    diplay:none !important;
+}
+.display-inline-block{
+    display: inline-block !important;
+}
+.ml160{
+    margin-left: 160px !important;
+}
+.disp-inline-flex{
+    display:inline-flex !important;
+}
+.appbar-label{
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    color:white !important;
+}
