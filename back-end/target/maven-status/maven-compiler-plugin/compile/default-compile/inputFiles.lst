@@ -11,12 +11,14 @@ D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\repository\CustomerRatingRepository.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\repository\PlayHistoryRepository.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\resource\AdminResource.java
+D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\response\MovieRatings.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\service\PlayHistoryService.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\model\MovieFilter.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\service\CustomUserDetailsService.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\repository\MovieRepository.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\resource\CustomerResource.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\model\CustomUserDetails.java
+D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\response\PopularMovieDetails.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\enums\MovieType.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\model\Actor.java
 D:\CMPE 275\final-project-latest-2\MovieCentral\back-end\src\main\java\com\movie\central\MovieCentral\service\MovieService.java
